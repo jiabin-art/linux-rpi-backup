@@ -18,7 +18,12 @@
 
 ```
 # 拉取
+# gitee
 git clone https://gitee.com/jiabintd/linux-rpi-backup.git && cd linux/tools/rpi-backup
+
+# github
+git clone https://github.com/jiabin-art/linux-rpi-backup.git && cd linux/tools/rpi-backup
+
 # 开始备份 ( raspberry-pi-os-lite.img 为备份文件名，自行修改)
 sudo bash back.sh raspberry-pi-os-lite.img  
 ```
