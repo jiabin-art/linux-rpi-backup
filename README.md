@@ -16,7 +16,7 @@
 
    用法：
 
-```
+```bash
 # 拉取
 # gitee
 git clone https://gitee.com/jiabintd/linux-rpi-backup.git && cd linux/tools/rpi-backup
